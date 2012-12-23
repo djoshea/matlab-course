@@ -1,4 +1,6 @@
 !!python/unicode '.hyde_deps': []
+!!python/unicode 'course/f2011/index.html': [main.j2, macros.j2, base.j2, analytics.j2,
+  topbar.j2]
 !!python/unicode 'index.html': [main.j2, macros.j2, base.j2, analytics.j2, topbar.j2]
 !!python/unicode 'landing.html': [macros.j2, base.j2, analytics.j2, topbar.j2]
 !!python/unicode 'main.j2': [macros.j2, base.j2, analytics.j2, topbar.j2]
